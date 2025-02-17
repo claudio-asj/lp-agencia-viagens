@@ -4,7 +4,7 @@
 
 Este projeto é uma landing page moderna para uma agência de viagens fictícia, desenvolvido com o objetivo de aprimorar minhas habilidades em desenvolvimento front-end, com foco especial em Tailwind CSS e princípios de UI/UX Design.
 
-![Preview do Projeto](/api/placeholder/800/400)
+![Preview do Projeto](https://claudio-asj.github.io/lp-agencia-viagens/)
 
 ## 🎯 Objetivos de Aprendizado
 
@@ -117,7 +117,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 👋 Autor
 
-Claudio Junior - [LinkedIn](seu-linkedin) - seuemail@email.com
+Claudio Junior - [LinkedIn](https://www.linkedin.com/in/claudio-junior-537319162/) - cla.junior21@gmail.com
 
 ---
 
